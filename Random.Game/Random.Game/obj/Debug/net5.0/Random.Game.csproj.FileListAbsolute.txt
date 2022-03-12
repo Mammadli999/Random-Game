@@ -1,0 +1,16 @@
+C:\Users\abbasfm\source\repos\Random.Game\Random.Game\bin\Debug\net5.0\Random.Game.exe
+C:\Users\abbasfm\source\repos\Random.Game\Random.Game\bin\Debug\net5.0\Random.Game.deps.json
+C:\Users\abbasfm\source\repos\Random.Game\Random.Game\bin\Debug\net5.0\Random.Game.runtimeconfig.json
+C:\Users\abbasfm\source\repos\Random.Game\Random.Game\bin\Debug\net5.0\Random.Game.runtimeconfig.dev.json
+C:\Users\abbasfm\source\repos\Random.Game\Random.Game\bin\Debug\net5.0\Random.Game.dll
+C:\Users\abbasfm\source\repos\Random.Game\Random.Game\bin\Debug\net5.0\ref\Random.Game.dll
+C:\Users\abbasfm\source\repos\Random.Game\Random.Game\bin\Debug\net5.0\Random.Game.pdb
+C:\Users\abbasfm\source\repos\Random.Game\Random.Game\obj\Debug\net5.0\Random.Game.csproj.AssemblyReference.cache
+C:\Users\abbasfm\source\repos\Random.Game\Random.Game\obj\Debug\net5.0\Random.Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbasfm\source\repos\Random.Game\Random.Game\obj\Debug\net5.0\Random.Game.AssemblyInfoInputs.cache
+C:\Users\abbasfm\source\repos\Random.Game\Random.Game\obj\Debug\net5.0\Random.Game.AssemblyInfo.cs
+C:\Users\abbasfm\source\repos\Random.Game\Random.Game\obj\Debug\net5.0\Random.Game.csproj.CoreCompileInputs.cache
+C:\Users\abbasfm\source\repos\Random.Game\Random.Game\obj\Debug\net5.0\Random.Game.dll
+C:\Users\abbasfm\source\repos\Random.Game\Random.Game\obj\Debug\net5.0\ref\Random.Game.dll
+C:\Users\abbasfm\source\repos\Random.Game\Random.Game\obj\Debug\net5.0\Random.Game.pdb
+C:\Users\abbasfm\source\repos\Random.Game\Random.Game\obj\Debug\net5.0\Random.Game.genruntimeconfig.cache
